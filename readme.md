@@ -11,7 +11,7 @@ License
 Installation
 To use the AI Toolbox, simply clone this repository to your local machine:
 
-git clone [https://github.com/reconsumeralization/DataSete](https://github.com/reconsumeralization/DataSeter)
+git clone [https://github.com/reconsumeralization/DataSeter](https://github.com/reconsumeralization/DataSeter)
 The toolbox has the following dependencies:
 
 requests
